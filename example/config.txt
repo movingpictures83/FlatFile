@@ -1,0 +1,2 @@
+Prefix plugins/FlatFile/example/
+Plugin FlatFile inputfile parameters.flatfile.txt outputfile PanACEA.flatfile.txt
